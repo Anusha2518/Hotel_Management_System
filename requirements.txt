@@ -1,0 +1,9 @@
+# python3 -m pip install -r requirements.txt
+Flask>=3.0,<4
+PyJWT>=2.8,<3
+Werkzeug>=3.0,<4
+Pillow>=10,<12
+psycopg[binary]>=3.2,<4
+supabase==2.6.0
+python-dotenv>=1.0,<2
+ 
